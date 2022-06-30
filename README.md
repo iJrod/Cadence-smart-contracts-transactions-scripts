@@ -3,9 +3,9 @@ Practise of Cadence smart contracts, transactions, and scripts. I was running th
 
 ---
 
-**0x01_HelloInconfido.cdc** is just a Smart Contract that will return a String
+**0x01_HelloInconfido_SC.cdc** is just a Smart Contract that will return a String
 
-**0x02_HelloWorldResource.cdc** is Smart Contract that makes use of Resources for two transactions and the script
+**0x02_HelloWorldResource_SC.cdc** is Smart Contract that makes use of Resources for two transactions and the script
 
 ---
 
