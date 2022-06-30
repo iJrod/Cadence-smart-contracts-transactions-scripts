@@ -5,9 +5,9 @@ Flow: "Cadence is a resource-oriented programming language that introduces new f
 
 ---
 
-**0x01_HelloInconfido_SC.cdc** is just a Smart Contract that will return a String
+**0x01_HelloInconfido_SC.cdc** is just a Smart Contract that will return a String [Account 0x01]
 
-**0x02_HelloWorldResource_SC.cdc** is Smart Contract that makes use of Resources for two transactions and the script
+**0x02_HelloWorldResource_SC.cdc** is Smart Contract that makes use of Resources for two transactions and the script [Account 0x02]
 
 ---
 
