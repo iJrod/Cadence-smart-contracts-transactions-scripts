@@ -3,7 +3,6 @@
 access(all) contract HelloInconfido { // access(all) == pub 
 
     // Declare a public field of type String.
-    //
     // All fields must be initialized in the init() function.
     access(all) let greeting: String // constant, set once and never changed. Strictly typed, hence String
 
