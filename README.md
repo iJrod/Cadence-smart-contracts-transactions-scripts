@@ -1,4 +1,4 @@
-# Cadence-smart-contracts-transactions-scripts
+# Practising and taking notes of Flow's Cadence Smart Contracts, Transactions, Scripts
 Practise of Flow's Cadence smart contracts, transactions, and scripts. I was running these in https://play.onflow.org/
 
 Flow: "Cadence is a resource-oriented programming language that introduces new features to smart contract programming that help developers ensure that their code is safe, secure, clear, and approachable. Some of these features are: Type safety and a strong static type system."
