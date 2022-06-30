@@ -1,5 +1,7 @@
 # Cadence-smart-contracts-transactions-scripts
-Practise of Cadence smart contracts, transactions, and scripts
+Practise of Cadence smart contracts, transactions, and scripts. I was running these in https://play.onflow.org/local-project
+
+---
 
 **0x01_HelloInconfido.cdc** is just a Smart Contract that will return a String
 
