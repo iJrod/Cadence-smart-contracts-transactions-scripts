@@ -1,6 +1,7 @@
 import HelloWorld from 0x01
 
-// script is used to read data from the chain. Transaction is for read/write - they have fees
+// Scripts are used to read data from the chain. Transaction is for read/write - they have fees
+// This example of a Transaction should really be a script
 
 transaction {
 
