@@ -1,5 +1,3 @@
-// Flow allows you to redeploy contracts. 
-
 access(all) contract HelloInconfido { // access(all) == pub 
 
     // Declare a public field of type String.
